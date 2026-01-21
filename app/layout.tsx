@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 // SEO Metadata
 export const metadata: Metadata = {
-  metadataBase: new URL("https://osamaakram.dev"),
+  metadataBase: new URL("https://portfolio-beta-lac-82.vercel.app"),
   title: "M. Osama Akram | Automation Engineer & Agentic AI Developer",
   description:
     "Building intelligent automation systems that eliminate manual workflows and scale businesses. Specializing in Playwright, n8n, RAG systems, and AI-powered solutions.",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://osamaakram.dev",
+    url: "https://portfolio-beta-lac-82.vercel.app",
     siteName: "M. Osama Akram Portfolio",
     title: "M. Osama Akram | Automation Engineer & Agentic AI Developer",
     description:
