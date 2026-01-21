@@ -4,9 +4,9 @@ export const personalInfo = {
   name: "M. Osama Akram",
   title: "Automation Engineer | Agentic AI Developer",
   tagline: "Building intelligent automation systems that eliminate manual workflows and scale businesses",
-  email: "osamaakram.dev@gmail.com",
+  email: "123456.oa66@gmail.com",
   github: "https://github.com/Osama-Akram",
-  linkedin: "https://linkedin.com/in/osama-akram",
+  linkedin: "https://www.linkedin.com/in/osama-akram-b2784526a/",
   location: "Pakistan",
 };
 
